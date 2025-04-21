@@ -2,7 +2,7 @@
 
 This implementation demonstrates an adaptive system identification approach using a convex combination of two Functional Link Artificial Neural Networks (FLANNs) with different step sizes.
 
-![FLANN Convex Combination Results](/flann_convex_combination_results.png)
+![FLANN Convex Combination Results](/flann.png)
 
 ## Group Members
 
