@@ -9,6 +9,9 @@ This implementation demonstrates an adaptive system identification approach usin
 - Arjun Sekar (22110034)
 - Naga Sheshu (22110178)
 
+## Youtube Link
+[Youtube Playlist](https://youtube.com/playlist?list=PLMHHV60z4KgEpT_k9kgo4eLVq6iRVf8WL&si=6VK-1Unl51huvg4f)
+
 ## Overview
 
 System identification aims to build mathematical models of dynamic systems based on observed input-output data. In this implementation, we use a convex combination of two FLANNs with different learning rates to achieve better performance than either network alone. The system adaptively adjusts the combination parameter to optimize performance across different learning phases.
